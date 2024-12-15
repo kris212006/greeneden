@@ -1,3 +1,14 @@
+@media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 15px;
+            }
+            button {
+                width: 100%;
+            }
+        }
 div {
     display: block;
     unicode-bidi: isolate;
